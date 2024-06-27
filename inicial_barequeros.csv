@@ -1,0 +1,21 @@
+ID;Cooperativa_ID;Tipo_Afiliacion;Nombre;Cedula;Telefono;Direccion;;Suma_Oro_GR;Conteo_Registros
+1;1;Afiliado;Ricardo Chavez;10308209;31152392;Calle 9 # 14 - 90, Sabanalarga;oro;50.02372795;2
+13;0;Afiliado;Cristian Mendoza;10318749;31163256;Calle 3 # 7 - 1, Yolombó;oro;44.82287581;4
+14;1;Afiliado;Natalia Arias;10300560;31132121;Calle 12 # 9 - 32, Sabanalarga;;20.43027658;2
+17;2;Afiliado;Daniela Vasquez;10319173;31134620;Calle 10 # 12 - 98, El Bagre;;19.84597348;1
+9;0;Afiliado;Jorge Rodriguez;10309196;31153565;Carrera 13 # 3 - 59, Yolombó;;19.25317648;1
+6;0;Afiliado;Natalia Flores;10308261;31189562;Carrera 17 # 4 - 32, Yolombó;;14.57166962;3
+4;0;Afiliado;Elena Gutierrez;10306509;31117064;Calle 7 # 17 - 84, Yolombó;;14.23943731;2
+7;1;Afiliado;Adrian Lopez;10318024;31103442;Calle 19 # 8 - 99, Sabanalarga;direccion;12.13295253;1
+18;;No Afiliado;Mariana Gomez;10308921;31126451;Carrera 9 # 6 - 96, Sabanalarga;coop;11.66650787;2
+0;1;Afiliado;Cristian Aguilar;10317523;31145679;Carrera 19 # 8 - 28, Sabanalarga;tel;10.38775392;4
+2;1;Afiliado;Daniela Gomez;10308109;31115161;Calle 19 # 8 - 99, Sabanalarga;direccion;9.533502919;4
+5;1;Afiliado;Juliana Arias;10313384;31172990;Calle 4 # 3 - 88, Sabanalarga;;8.63016532;1
+11;;No Afiliado;Vicente Medina;10304123;31132379;Calle 17 # 9 - 41, Sabanalarga;coop;7.880166362;1
+16;0;Afiliado;Adrian Martinez;10307374;31188268;Carrera 2 # 14 - 80, Yolombó;;7.403811734;4
+8;1;Afiliado;Felipe Sanchez;10302141;31153455;Calle 8 # 15 - 73, Sabanalarga;;6.855528224;4
+15;2;Afiliado;Mariana Arias;10309414;31145679;Carrera 7 # 10 - 6, El Bagre;tel;6.621436943;4
+12;2;Afiliado;Gabriela Romero;10309180;31188011;Calle 13 # 9 - 6, El Bagre;;6.50990281;1
+3;1;Afiliado;Jose Rojas;10317703;31106715;Carrera 8 # 3 - 33, Sabanalarga;;6.14054635;2
+19;1;Afiliado;Alberto Gomez;10316444;31108645;Calle 8 # 1 - 73, Sabanalarga;;3.480131876;2
+10;2;Afiliado;Mariana Reyes;10319093;31145140;Calle 13 # 19 - 91, El Bagre;;2.816693321; 
